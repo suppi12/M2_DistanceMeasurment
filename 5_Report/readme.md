@@ -27,5 +27,7 @@ Threats
 
 1. Sensor disconnection.
 2. Failure of the components.
+
+
 ![image](https://user-images.githubusercontent.com/102427512/164990873-244e8fa3-232b-494b-8c66-cbafaad54384.png)
 

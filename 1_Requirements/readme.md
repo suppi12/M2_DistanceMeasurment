@@ -59,3 +59,14 @@ HIGH LEVEL REQUIREMENTS
 | HLR03 | AVR-ISP PROGRAMMER |Technical|
 | HLR04 | ATMEGA328 MICROCONTROLLER |Hardware|
 
+
+
+LOW LEVEL REQUIREMENTS
+
+
+| ID | Description | Category |
+| --- | --- | --- | 
+| LLR01 | Power Supply(5V) | Hardware |
+| LLR02 | JHD_162ALCD(16x2LCD) | Hardware |
+| LLR03 | Voltmeter | Hardware |
+| LLR04 | HC-SR04 ULTRASONIC SENSOR |Hardware|
